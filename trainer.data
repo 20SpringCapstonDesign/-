@@ -1,0 +1,7 @@
+classes=66
+train= /home/kang/YoloV3-Custom-Object-Detection/training/train.txt
+valid= /home/kang/YoloV3-Custom-Object-Detection/training/test.txt
+names= /home/kang/YoloV3-Custom-Object-Detection/training/object.names
+backup= backup/
+eval=coco
+
